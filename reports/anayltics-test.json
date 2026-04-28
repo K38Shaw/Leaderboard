@@ -1,0 +1,29 @@
+{
+  "updatedAt": "2026-04-22T00:00:00Z",
+  "contributors": {
+    "alice": {
+      "commits": 42,
+      "prsCreated": 5,
+      "prsMerged": 3,
+      "reviews": 7
+    },
+    "bob": {
+      "commits": 30,
+      "prsCreated": 2,
+      "prsMerged": 2,
+      "reviews": 5
+    },
+    "carol": {
+      "commits": 18,
+      "prsCreated": 8,
+      "prsMerged": 1,
+      "reviews": 12
+    },
+    "david": {
+      "commits": 60,
+      "prsCreated": 1,
+      "prsMerged": 1,
+      "reviews": 2
+    }
+  }
+}
